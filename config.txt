@@ -1,0 +1,5 @@
+{
+    "username": "anderson",
+    "password": "Anderson#7",
+    "database": "LIBMAN"
+}

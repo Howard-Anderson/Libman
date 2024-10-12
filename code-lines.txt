@@ -1,0 +1,4 @@
+[09/09/2024] [10/09/2024: 00:40]:
+# Successfully Tested Frontend and Backend: Working Successfully:
+anderson-2.py: 836 Lines.
+Libman2.py: 350 Lines. [370 Lines with testing parts]
